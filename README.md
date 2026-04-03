@@ -5,7 +5,6 @@
 </p>
 
 ## 🪟 PILIHAN WARNA ALUMINIUM
-- Silver
 - Coklat
 - Putih
 - Hitam
